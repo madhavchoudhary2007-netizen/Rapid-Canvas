@@ -79,6 +79,8 @@ npm install
 
 # Start development server
 npm run dev
+
+Open http://localhost:5000 in your browser
 ```
 
 **[Try it live ](https://rapid-canvas.onrender.com)**
